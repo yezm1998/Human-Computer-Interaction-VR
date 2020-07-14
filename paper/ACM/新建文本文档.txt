@@ -1,0 +1,13 @@
+RotoSwype: Word-Gesture Typing using a Ring. 14
+
+CodeGazer: Making Code Navigation Easy and Natural With Gaze Input. 76
+
+ReType: Quick Text Editing with Keyboard and Gaze. 203
+
+Accessible Gesture Typing for Non-Visual Text Entry on Smartphones. 376
+
+An Explanation of Fitts' Law-like Performance in Gaze-Based Selection Tasks Using a Psychophysics Approach. 535
+
+I (Don't) See What You Typed There! Shoulder-surfing Resistant Password Entry on Gamepads. 549
+
+A Design Space for Gaze Interaction on Head-mounted Displays. 625
