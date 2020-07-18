@@ -14,7 +14,9 @@ https://www.xjtlu.edu.cn/zh/departments/academic-departments/computer-science-an
 
 ## 3d场景数据集
 
-- ~~[数据1](https://github.com/msavva/stanford-scene-database)~~
+- [数据1](http://graphics.stanford.edu/projects/scenesynth/)
 - ~~[数据2](http://suncg.cs.princeton.edu/)~~
 - [数据3](http://www.scenenn.net/)
+- [数据4](https://manyili12345.github.io/Publication/2018/T2S/index.html)
+
 
