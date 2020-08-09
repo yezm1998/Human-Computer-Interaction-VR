@@ -19,4 +19,7 @@ https://www.xjtlu.edu.cn/zh/departments/academic-departments/computer-science-an
 - [数据3](http://www.scenenn.net/)
 - [数据4](https://manyili12345.github.io/Publication/2018/T2S/index.html)
 
-
+## 模型下载网站
+- 3dmax模型
+  + [室内家居设计](https://www.justeasy.cn/index.html)
+  + [室内模型](https://so.3d66.com/)
